@@ -24,4 +24,6 @@ function inserisciButton() {
   newTr.appendChild(colonnaData);
 
   newElement.appendChild(newTr);
+
+  newElement.style.display = "block";
 }
